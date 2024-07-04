@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Maaz2404
-- 👀 I’m interested in Data Science/Analysis
-- 🌱 I’m currently learning Python Pandas
+- 👋 Hi, I’m Maaz Ahmad
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning about machine learning techniques
 - 📫 How to reach me maazahmad2404@gmail.com
 
 <!---
