@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Maaz Ahmad
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning about machine learning techniques
-- 📫 How to reach me maazahmad2404@gmail.com
+- 👀 I’m interested in learning to build anything I can think of
+
 
 <!---
 Maaz2404/Maaz2404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
