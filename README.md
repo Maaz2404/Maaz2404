@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Maaz Ahmad
-- 👀 I’m interested in learning to build anything I can think of
+- 👀 I’m a Full Stack Developer, AI Engineer or anything that allows me to make cool projects
+- Profecient in Python, FastAPI, React, Langchain, Scikit-learn
 
 
 <!---
